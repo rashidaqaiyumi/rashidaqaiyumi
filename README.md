@@ -1,167 +1,148 @@
-<h1 align="center">Hi 👋, I'm Rashida Qaiyumi</h1>
+<div align="center">
 
-<h3 align="center">
-AI & Data Science Graduate • Data Analytics • AI • Automation
-</h3>
+# 👋 Hi, I'm Rashida Qaiyumi
 
-<p align="center">
-I love turning messy data into meaningful insights and building AI-powered solutions that solve real-world problems.
+### Building Intelligent AI Systems
+
+AI • Machine Learning • Generative AI • AI Agents • Automation • Full-Stack AI
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+AI+Products;Exploring+LLMs+%26+AI+Agents;Turning+Ideas+into+Intelligent+Systems;Always+Learning+Something+New" />
+
+<p>
+<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
----
-
-## 👩‍💻 About Me
-
-🎓 B.Tech in Artificial Intelligence & Data Science
-
-📊 Interested in Data Analytics, AI, Business Intelligence & Automation
-
-🐍 Skilled in Python, SQL, Excel and Power BI
-
-🤖 Exploring Generative AI, LLMs and AI Automation
-
-💡 I enjoy asking interesting questions and answering them with data.
-
-🌱 Currently learning
-- Advanced SQL
-- Power BI
-- AI Automation
-- Agentic AI
-- Data Storytelling
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 About Me
 
-### Programming
+I'm an AI & Data Science graduate passionate about building **real-world AI products**.
 
-- Python
-- SQL
-- JavaScript
-- HTML
-- CSS
+Rather than focusing on isolated models, I enjoy creating complete intelligent systems by combining:
 
-### Data Analytics
+- 🤖 AI & Machine Learning
+- 🧠 Large Language Models (LLMs)
+- ⚡ AI Automation
+- 🌐 Full Stack Development
+- 📊 Data Intelligence
+- 🚀 Product Engineering
 
-- Excel
-- Power BI
-- Pandas
-- NumPy
-- Matplotlib
+My goal is simple:
 
-### Machine Learning
+> **Build AI that solves real problems.**
 
-- Scikit-learn
-- TensorFlow
-- OpenCV
+---
+
+# 🧠 Current Focus
+
+- 🤖 AI Agents
+- 🧠 Generative AI
+- ⚡ Workflow Automation
+- 🌍 Open Source
+- 💻 Full Stack AI Applications
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### AI & Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Frameworks
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 
 ### Databases
 
-- MySQL
-- PostgreSQL
-- Firebase
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 
 ### Tools
 
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Google Colab
-- n8n
+Git • GitHub • VS Code • Docker • n8n • Power BI • Excel
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Flagship Projects
 
-### 🌊 Underwater Image Enhancement
-
-Deep learning project that restores underwater images by improving clarity, contrast and color.
-
-**Tech Used**
-
-Python • OpenCV • TensorFlow
-
----
-
-### ⚖️ Musab Learning Platform
-
-A modern learning management system built for law students with role-based access and secure authentication.
-
-**Tech Used**
-
-React • TypeScript • Supabase
+| Project | Description |
+|----------|-------------|
+| 🤖 AI Resume Analyzer | AI-powered ATS Resume Analyzer |
+| 📄 Research Assistant | Chat with PDFs using LLMs |
+| 📊 AI Hiring Trends | Analyze AI job market trends |
+| 🌊 Underwater Image Enhancement | Deep Learning image restoration |
+| ⚖️ Musab Learning Platform | Full Stack LMS |
+| 🎨 AI Color Detection | Computer Vision project |
 
 ---
 
-### 🎨 AI Color Detection
-
-Real-time color detection using computer vision.
-
-**Tech Used**
-
-Python • OpenCV
-
----
-
-### 📈 Data Analytics Projects
-
-Collection of SQL, Excel and Power BI projects focused on extracting insights from real-world datasets.
-
----
-
-## 🎯 Current Goals
-
-✅ Build creative SQL projects
-
-✅ Build AI-powered analytics projects
-
-✅ Contribute to Open Source
-
-✅ Learn Agentic AI
-
-✅ Share data stories on LinkedIn
-
----
-
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rashidaqaiyumi&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rashidaqaiyumi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidaqaiyumi&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rashidaqaiyumi&theme=tokyonight" />
+</p>
 
-<br>
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidaqaiyumi&layout=compact&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=rashidaqaiyumi&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 📊 Contribution Graph
 
-💼 LinkedIn
+<p align="center">
 
-https://www.linkedin.com/in/rashidaqaiyumi/
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rashidaqaiyumi&theme=tokyo-night&hide_border=true"/>
 
-📧 Email
-
-YOUR EMAIL HERE
-
-🌐 Portfolio
-
-Coming Soon 🚀
+</p>
 
 ---
 
-## 💭 A Thought I Like
+# 🌱 2026 Goals
 
-> "Data is only valuable when it tells a story."
+- 🚀 Build 25+ AI Projects
+- 🤖 Build Production AI Agents
+- 🌍 Contribute to Open Source
+- 📚 Learn Advanced LLM Engineering
+- 💼 Land an AI Engineering Role
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 💭 Philosophy
+
+> *"The future belongs to people who can combine AI, software engineering, and creativity to build products that matter."*
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+Let's build something amazing with AI.
+
+<img src="https://komarev.com/ghpvc/?username=rashidaqaiyumi&style=for-the-badge&color=6C63FF"/>
+
+</div>
