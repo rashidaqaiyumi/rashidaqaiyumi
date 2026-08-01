@@ -143,6 +143,6 @@ Git • GitHub • VS Code • Docker • n8n • Power BI • Excel
 
 Let's build something amazing with AI.
 
-<img src="https://komarev.com/ghpvc/?username=rashidaqaiyumi&style=for-the-badge&color=6C63FF"/>
+
 
 </div>
