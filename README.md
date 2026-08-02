@@ -8,7 +8,7 @@
 
 ### Building Intelligent AI Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+AI+Engineer+%7CData+Analyst+%7CAI+ Automation+Engineer;Building+AI+Products+for+Real+World+Problems;Exploring+LLMs%2C+AI+Agents+%26+Automation;Always+Learning.+Always+Building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Data+Analyst+%7C+AI+Automation+Engineer;Building+Intelligent+Systems+with+AI+and+Data;LLMs+%7C+AI+Agents+%7C+Machine+Learning+%7C+Python+%7C+SQL;Turning+Data+into+Real-World+Impact;Always+Learning.+Always+Building." alt="Typing SVG" />
 
 <br>
 
